@@ -1,4 +1,4 @@
-# L2G Eletrônicos
+# L2G STORE
 <div name="Principal">
   
   <div>
