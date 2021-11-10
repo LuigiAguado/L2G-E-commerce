@@ -94,12 +94,12 @@ header p {
         align-items: center;
         text-align: center;
         padding: 10px 10px 20px 20px;
-        background-color: #d3d3d3;
-        color: #000000;
+        background-color: #000000ef;
+        color: #ffffff;
 }
 
 #sobre h2 {
-    color: #000000;
+    color: #ffffff;
 }
 
 #sobre p {
