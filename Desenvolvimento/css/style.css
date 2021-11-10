@@ -33,14 +33,14 @@ nav {
         display: flex;
         flex-direction: column;
         align-items: center;
-        background-color: #000000ef;
+        background-color: #000000f3;
 }
 
 nav > a {
             text-decoration: none;
-            color: #6832be;;
+            color: #8d4bf6;
             font-weight: 800;
-            font-size: 32px;
+            font-size: 34px;
             font-family: 'Yellowtail', serif;
 }
 
@@ -64,7 +64,7 @@ nav ul li a {
             padding: 10px 0;
             width: 100%;
             text-decoration: none;
-            color: #6832be;
+            color: #8d4bf6;
 }
 
 header {
@@ -94,7 +94,7 @@ header p {
         align-items: center;
         text-align: center;
         padding: 10px 10px 20px 20px;
-        background-color: #000000ef;
+        background-color: #000000f3;
         color: #ffffff;
 }
 
@@ -108,8 +108,8 @@ header p {
 }
 
 #sobre .botao {
-    background-color: #f1f1f1;
-    color: #000000;
+    background-color: #8d4bf6;
+    color: #ffffff;
 }
 
 #raposas {
@@ -155,13 +155,13 @@ header p {
 footer {
             text-align: center;
             padding: 10px;
-            background-color: #6c6c6c;
+            background-color: #000000f3;
             color: #FFFFFF;
 }
 
 footer a {
                 text-decoration: none;
-                color: #ffff00;
+                color: #8d4bf6;
 }
 
 @media screen and (min-width: 768px) {
@@ -227,8 +227,8 @@ footer a {
 }
 
 #botaorealizado{
-        background-color: #6c6c6c;
-        color: #FFFFFF;
+        background-color: #8d4bf6;
+        color: #ffffff;
 }
 
 #imagenspagamento{
