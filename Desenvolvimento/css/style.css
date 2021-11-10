@@ -33,12 +33,12 @@ nav {
         display: flex;
         flex-direction: column;
         align-items: center;
-        background-color: #6c6c6c;
+        background-color: #000000ef;
 }
 
 nav > a {
             text-decoration: none;
-            color: #FFFFFF;
+            color: #6832be;;
             font-weight: 800;
             font-size: 32px;
             font-family: 'Yellowtail', serif;
@@ -56,6 +56,7 @@ nav ul {
 nav ul li {
             text-align: center;
             width: 100%;
+        
 }
 
 nav ul li a {
@@ -63,7 +64,7 @@ nav ul li a {
             padding: 10px 0;
             width: 100%;
             text-decoration: none;
-            color: #FFFFFF;
+            color: #6832be;
 }
 
 header {
