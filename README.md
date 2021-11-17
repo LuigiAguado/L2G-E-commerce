@@ -2,7 +2,9 @@
 <div align="left" name="Principal">
   <h1> L2G STORE | E-Commerce</h1>
   <div>
-  <img width="25%" src="./readmelogo.png"/>
+   <center>
+  <img width="35%"  src="./readmelogo.png"/>
+   </center>
   </div>
   <br>
   <div align=left>
