@@ -2,7 +2,7 @@
 <div align="left" name="Principal">
   <h1> L2G STORE | E-Commerce</h1>
   <div>
-  <img width="100%" src="https://github.com/jovemm0nge/L2G-E-commerce/blob/main/Desenvolvimento/img/Logo.png?raw=true"/>
+  <img width="100%" src="./Desenvolvimento/img/Logo.png"/>
   </div>
   <br>
   <div align=left>
