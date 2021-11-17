@@ -7,7 +7,7 @@
   <br>
   <div align=left>
   📌E-Commerce de Celulares, Computadores, Acessórios e Equipamentos.<br>
-  📌Desenvolvedores: <a href="https://github.com/jovemm0nge">Jovemm0nge</a>, Luigi e LFM0
+  📌Desenvolvedores: <a href="https://github.com/jovemm0nge">Jovemm0nge</a>, <a href="https://github.com/LuigiAguado">Luigiii</a> e LFM0
   </div>
   
   <br>
