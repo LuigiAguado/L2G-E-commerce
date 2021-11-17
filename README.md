@@ -2,7 +2,7 @@
 <div align="left" name="Principal">
   <h1> L2G STORE | E-Commerce</h1>
   <div>
-  <img width="25%" src="https://github.com/LuigiAguado/L2G-E-commerce/blob/main/Desenvolvimento/img/Logo.png"/>
+  <img width="100%" src="./Desenvolvimento/img/Logo.png"/>
   </div>
   <br>
   <div align=left>
@@ -11,6 +11,8 @@
   </div>
   
   <br>
+ <trable>
+  <tr>
   <div name=badges>
   <h3>------------ | Utilização | ------------</h3>
     <br>
@@ -18,5 +20,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </div>
-  
+  </tr>
+  </table>
 <div>
