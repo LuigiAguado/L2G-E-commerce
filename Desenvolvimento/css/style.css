@@ -227,7 +227,7 @@ footer a {
 }
 
 #imagenspagamento label{
-        font-size: 2em;
+        font-size: 1.5em;
 }
 
 .tamimg{
@@ -271,4 +271,14 @@ footer a {
 
 #linharodape{
         margin: 0;
+}
+
+.descvisivel{
+        opacity: 0;
+        transition: 0.5s ease;
+}
+
+.tamimg:hover .descvisivel{
+        opacity: 1;
+        transition: 0.5s ease;
 }
